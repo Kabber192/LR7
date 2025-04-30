@@ -1,0 +1,5 @@
+{
+  "accounts": [
+    { "id": "1", "accountNumber": "1234567890", "balance": 1000, "isActive": true, "createdAt": "2025-04-30", "transactionIds": [] }
+  ]
+}
